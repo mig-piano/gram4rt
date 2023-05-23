@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gram4rt
+- 👋 Hi, I’m @mig-piano
 - 👀 I’m interested in HTML/CSS/Java
 - 🌱 I’m currently learning CSS
 
